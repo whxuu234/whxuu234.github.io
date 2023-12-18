@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(255, 144, 0, 0.9);
+  background: rgba(0, 183, 255, 0.714);
 }
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
@@ -222,7 +222,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-features {
-  background: #FF9000;
+  background: #5a92c097;
 }
 #fh5co-features h2 {
   color: #fff;
@@ -308,11 +308,15 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: #FF9000;
+  background: #2f3c4f8f;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
 }
+.fh5co-bg-light {
+  background: #596d8b8f;
+}
+
 
 .info {
   margin: 0;
@@ -1255,7 +1259,7 @@ input[type="text"] {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #FF9000;
+  border-color: #33ff009e;
 }
 
 .row-pb-md {
